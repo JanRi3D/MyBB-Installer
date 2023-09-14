@@ -26,4 +26,4 @@ To install MyBB with ease, follow these simple steps:
    ```shell
    bash Install.sh
 
-   The standard username and database name used for Moodle during the Web Installation is "MyBB".
+   The standard username and database name used for MyBB during the Web Installation is "MyBB".
